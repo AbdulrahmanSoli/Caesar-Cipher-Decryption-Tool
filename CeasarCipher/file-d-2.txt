@@ -1,0 +1,8 @@
+Key = 32
+dammam is a major city and commercial hub in the eastern province with a busy port and modern amenities.
+Key = 17
+the city blends coastal attractions, shopping districts, and cultural venues, serving both residents and visiting workers.
+Key = 26
+transport links connect dammam to the wider region, including highways, airports, and public transit improvements.
+Key = 7
+urban development projects focus on waterfront parks, public services, and expanding economic diversification initiatives.

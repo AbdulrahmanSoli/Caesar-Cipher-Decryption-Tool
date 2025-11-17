@@ -1,0 +1,8 @@
+Key = 16
+fursan island lies off the coast of saudi arabia and is known for its clear waters and diverse marine life.
+Key = 26
+local fishermen and small communities maintain traditional ways of life while welcoming eco tourism and diving enthusiasts.
+Key = 21
+the islands offer coral reefs, quiet beaches, and opportunities for seabird watching and marine research projects.
+Key = 30
+plans for sustainable development emphasize low impact infrastructure and careful management of natural resources.
