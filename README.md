@@ -1,4 +1,4 @@
-# Caesar Cipher Decryption Tool (CS285 Project)
+# Caesar Cipher Decryption Tool 
 
 Simple console-based Java tool that **automatically decrypts Caesar cipher text files** where **each paragraph uses a different unknown key**.
 
